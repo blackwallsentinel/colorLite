@@ -14,11 +14,4 @@ class Logger:
     def critical(self, message):
         print(f"\033[95m\033[1mCRITICAL:\033[0m {message}")
 
-# Example usage
-logger = Logger()
-logger.debug("This is a debug message.")
-logger.info("This is an info message.")
-logger.warning("This is a warning message.")
-logger.error("This is an error message.")
-logger.critical("This is a critical message.")
 
