@@ -13,8 +13,8 @@
 Clone the repository or copy the `Logger` class into your project. No external libraries or dependencies are needed.
 
 ## Usage
+`pip install colorlite`
 
-Below is an example of how to use the `Logger` class:
 
 ```python
 from colorLite import Logger
